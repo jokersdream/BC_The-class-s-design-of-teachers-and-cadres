@@ -19,4 +19,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\运行截图\批注 2020-05-17 173551.png">
+      <Filter>源文件</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
